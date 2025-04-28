@@ -1,0 +1,1 @@
+este é um projeto tsx com a biblioteca flowbite e tailwindcss. para criar componentes use tsx com a extensão .tsx. Alem disso este é um projeto de cardapio para uma confeitaria.
